@@ -27,7 +27,7 @@ cd demo/0/
 labelme image.png
 ```
 A screenshot here:
-!(Still-to-Reel_Visualizing-the-Frame/assets/labelme.png)
+![labelme](Still-to-Reel_Visualizing-the-Frame/assets/labelme.png)
 
 It is recommended to specify **short** hints rather than long hints to avoid artifacts. Please follow [labelme](https://github.com/wkentaro/labelme) for detailed instructions if needed.
 
