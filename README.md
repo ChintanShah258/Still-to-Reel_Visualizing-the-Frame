@@ -46,6 +46,7 @@ python demo_final.py -c configs/config.yaml --input_dir demo/0/ --ckpt_path ckpt
 - `ckpt_path`: checkpoint path.
 - `flow_scale`: scale that used to control the speed of fluid, > 1.0 will slow down the fluid.
 - `ds_factor`: downsample factor for the input images.
+- `video_path`: The direction in which the video can move.
 
 Results will be saved to the `input_dir/output`.
 
